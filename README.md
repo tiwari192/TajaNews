@@ -2,7 +2,7 @@
 ![TajaNews2](https://user-images.githubusercontent.com/77340249/110133356-3c2be780-7df2-11eb-8ab6-be6057e4134d.jpeg)
 # taja_news
 
-A new Flutter application.
+This project is a Dynamic News Application based on flutter .
 
 # Software Requirements
   Use one of the following IDE's:
@@ -13,8 +13,6 @@ A new Flutter application.
 
 
 ## Getting Started
-
-This project is a Dynamic News Application based on flutter .
 
 A few resources to get you started if this is your first Flutter project:
 
