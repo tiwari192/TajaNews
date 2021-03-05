@@ -2,9 +2,17 @@
 
 A new Flutter application.
 
+# Software Requirements
+  Use one of the following IDE's:
+
+  Android Studio (Recommended)
+  VS Code(Optional)
+  Flutter: Use Stable Version 2.0
+
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Dynamic News Application based on flutter .
 
 A few resources to get you started if this is your first Flutter project:
 
