@@ -1,3 +1,5 @@
+![TajaNews1](https://user-images.githubusercontent.com/77340249/110133350-39c98d80-7df2-11eb-8242-a4d98478d39e.jpeg)
+![TajaNews2](https://user-images.githubusercontent.com/77340249/110133356-3c2be780-7df2-11eb-8ab6-be6057e4134d.jpeg)
 # taja_news
 
 A new Flutter application.
