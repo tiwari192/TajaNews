@@ -1,10 +1,34 @@
+
+
+
+<table>
+
+  <tr>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/77340249/110133350-39c98d80-7df2-11eb-8242-a4d98478d39e.jpeg"  width="200" height="400"></td>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/77340249/110133356-3c2be780-7df2-11eb-8ab6-be6057e4134d.jpeg"  width="200" height="400"></td>
+
+ 
+ </tr>
+ 
+ </table>
+ 
+
+
+
+
 # taja_news
 
-A new Flutter application.
+This project is a Dynamic News Application based on flutter .
+
+# Software Requirements
+  Use one of the following IDE's:
+
+  Android Studio (Recommended)
+  VS Code(Optional)
+  Flutter: Use Stable Version 2.0
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
