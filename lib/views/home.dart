@@ -5,6 +5,7 @@ import 'package:taja_news/models/category_model.dart';
 import '../helper/news.dart';
 import 'article_view.dart';
 import 'category_news.dart';
+import 'drawer.dart';
 
 import 'package:cached_network_image/cached_network_image.dart';
 
@@ -38,6 +39,7 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      drawer: SideDrawer(),
       appBar: AppBar(
         title: Row(
           mainAxisAlignment: MainAxisAlignment.center,
